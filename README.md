@@ -27,8 +27,7 @@ This repository showcases my skills in data analytics, emphasizing proficiency i
 
 ## Contact  
 - **Email:** ajayjoseph842@gmail.com  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub Profile URL]  
+- **LinkedIn:** [www.linkedin.com/in/ajay-joseph-418079247]  
 
 ## About Me  
 I am a data-driven professional with a Master's in Forensic Sciences, transitioning into data analytics to leverage my analytical skills and technical proficiency. My passion lies in uncovering actionable insights from complex datasets to drive impactful business decisions.  
